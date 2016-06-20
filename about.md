@@ -6,6 +6,6 @@ permalink: /about/
 
 Extreme left wing kid.
 
-### More Information
+# More Information
 
 Someone who kinda' understands JavaScript and politics.
