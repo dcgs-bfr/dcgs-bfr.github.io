@@ -18,9 +18,13 @@ html {
 }
 
 body {
-	background: #f2ebd9;
+	background: url("http://www.walldevil.com/wallpapers/a29/wallpaper-wallpapers-fantasy-crush-orange-dragon-modern-paper-background-xhtml-abstract.jpg");
   font: 18px/1.4 #helveticaNeue;
   color: #0072bb;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container {
