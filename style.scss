@@ -19,7 +19,7 @@ html {
 
 body {
   background: url("http://cdn.wallpapersafari.com/29/39/YAQtVW.jpeg");
-  font: 18px/1.4 $arial;
+  font: 18px/1.4 #arial;
   color: #0072bb;
   background-attachment: fixed;
   background-position: center;
@@ -36,7 +36,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $arial;
+  font-family: #arial;
   color: #0072bb;
   font-weight: bold;
 
@@ -199,7 +199,7 @@ img {
   margin: 0;
   color: #0072bb;
   cursor: pointer;
-  font-family: $arial;
+  font-family: #arial;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -280,7 +280,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: transparent;
 }
 
 footer {
