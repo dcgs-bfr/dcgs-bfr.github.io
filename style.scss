@@ -268,15 +268,25 @@ nav {
 
 table {
     border-collapse: collapse;
-}
-	
-table, th, td {
-   border: 1px solid white;
+    width: 100%;
 }
 
+table, th, td {
+   border: 1px solid white;
+	background-color:#984b43;
+
+}
+
+td {
+   vertical-align: middle; 
+   padding: 10px;
+}	
+
 th {
-    background-color: transparent;
-    color: transparent;
+   color: white;
+   background: #233237;
+   height:50px;
+   vertical-align: middle;
 }
 	
   .comments {
