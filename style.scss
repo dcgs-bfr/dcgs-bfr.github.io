@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #0072bb;
+    color: #e0c021;
   }
 }
 
@@ -66,7 +66,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #0072bb;
+  color: #dbcc27;
 }
 
 p {
@@ -78,7 +78,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #0072bb;
+    color: #e0c021;
   }
 }
 
@@ -127,11 +127,11 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: #0072bb;
+  color: #e0c021;
   background: #f2ebd9;
 }
 ::selection {
-  color: #0072bb;
+  color: #e0c021;
   background: #f2ebd9;
 }
 
@@ -197,7 +197,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #0072bb;
+  color: #e0c021;
   cursor: pointer;
   font-family: Arial;
   font-weight: 300;
@@ -207,7 +207,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #0072bb;
+  color: #e0c021;
   font-size: 16px;
 
   @include mobile {
@@ -230,7 +230,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #0072bb;
+    color: #e0c021;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
