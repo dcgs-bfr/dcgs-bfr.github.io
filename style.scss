@@ -218,7 +218,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $arial;
+  font-family: #arial;
   font-size: 18px;
 
   @include mobile {
