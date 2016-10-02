@@ -266,6 +266,19 @@ nav {
     font-style: italic;
   }
 
+table {
+    border-collapse: collapse;
+}
+	
+table, th, td {
+   border: 1px solid black;
+}
+
+th {
+    background-color: transparent;
+    color: transparent;
+}
+	
   .comments {
     margin-top: 10px;
   }
