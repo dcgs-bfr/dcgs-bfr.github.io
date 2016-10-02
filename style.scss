@@ -248,7 +248,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid white;
 }
 
 .posts > .post:last-child {
@@ -271,7 +271,7 @@ table {
 }
 	
 table, th, td {
-   border: 1px solid black;
+   border: 1px solid white;
 }
 
 th {
