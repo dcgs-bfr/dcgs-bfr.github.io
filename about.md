@@ -6,7 +6,7 @@ permalink: /about/
 
 ##About me##
 
-Extreme left wing kid who kinda' understands HTML and SCSS. I love to code, and play videogames. I'm a complete maths geek and I'm very interested in science and politics. Especially elections!
+An extreme left wing kid who kinda' understands HTML and SCSS. I love to code, and play videogames. I'm a complete maths geek and I'm very interested in science and politics. Especially elections!
 
 **About the Blog...**
 
