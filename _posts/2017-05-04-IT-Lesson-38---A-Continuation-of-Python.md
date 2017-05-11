@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes, I finished up to </td>
+    <td>Yes, I finished up to 19%</td>
   </tr>
 </table>
 
