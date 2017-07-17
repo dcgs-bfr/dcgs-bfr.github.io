@@ -1,5 +1,5 @@
 ---
-title: Lesson 44 - A New Look
+title: IT Lesson 44 - A New Look
 layout: post
 author: brendan.frank
 permalink: /lesson-44---a-new-look/
