@@ -1,5 +1,5 @@
 ---
-title: Lesson 46 - More Lists and Dictionaries
+title: IT Lesson 46 - More Lists and Dictionaries
 layout: post
 author: brendan.frank
 permalink: /lesson-46---more-lists-and-dictionaries/
