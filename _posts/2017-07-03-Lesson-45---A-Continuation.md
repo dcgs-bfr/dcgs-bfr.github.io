@@ -1,5 +1,5 @@
 ---
-title: Lesson 45 - A Continuation
+title: IT Lesson 45 - A Continuation
 layout: post
 author: brendan.frank
 permalink: /lesson-45---a-continuation/
