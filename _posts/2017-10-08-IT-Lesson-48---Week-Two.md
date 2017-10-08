@@ -1,5 +1,5 @@
 ---
-title: IT Lesson 48 - Week Two
+title: IT Lesson 49 - Week Two
 layout: post
 author: brendan.frank
 permalink: /it-lesson-48---week-two/
@@ -9,7 +9,8 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>IT Lesson 48</td>
+    <td>IT Lesson 49
+</td>
     <td>Date</td>
     <td>18/09/2017</td>
   </tr>
