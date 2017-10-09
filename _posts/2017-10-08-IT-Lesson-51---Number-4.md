@@ -59,7 +59,6 @@ published: true
 
 <br>
 <hr>
-<hr>
 
 <h3>Spreadsheet Work</h3>
 
